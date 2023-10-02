@@ -1,2 +1,2 @@
 # MovieRecommendationFlaskApp
-Using Machine Learning and Flask Made a User and item based Movie Recommended System.
+University project of Movie recommendation system and deplpying it on local flask webapp

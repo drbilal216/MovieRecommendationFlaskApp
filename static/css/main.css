@@ -1,0 +1,51 @@
+/* Background color of webpage */
+body {
+    background-color: #f0f0f0; /* Replace #f0f0f0 with your desired background color */
+  }
+  
+/* style for title */
+.title {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    /* margin = creating some space around the title */
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+  
+/* style for submit button */
+input[type="submit"] {
+    padding: 5px 20px;
+    /* padding = sets the amount of space between the edge of the button and its content*/
+    background-color: #6A5ACD;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    /* float: right */
+    }
+  
+
+/* style for table element */
+table {
+    /* border-collapse = single border */
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px;
+    }
+  
+/* style for th element */
+th {
+    background-color: #6A5ACD;
+    color: white;
+    font-weight: bold;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #ddd;
+    }
+  
+/* style for td element */
+td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    }
